@@ -4,7 +4,7 @@ RubyGM
 Ruby Game Maker, a easy game engine with ruby.
 
 ### About Ruby Game Maker
-Ruby Game Maker(RubyGM) is a easy game engine, Ruby as the script system.<br \>
+Ruby Game Maker(RubyGM) is a easy game engine, Ruby as the script language system.<br \>
 Run on Win7(updated, or later),because of rendering based on Direct2D(D2D 1.1) (until now)<br \>
 You can make game with editor, ruby script, even only C++.but best with all of them.<br \>
 
