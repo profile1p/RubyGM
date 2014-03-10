@@ -3,10 +3,18 @@ RubyGM
 
 Ruby Game Maker, a easy game engine with ruby.
 
+### About Ruby Game Maker
+Ruby Game Maker(RubyGM) is a easy game engine, Ruby as the script system.<br \>
+Run on Win7(updated, or later),because of rendering based on Direct2D(D2D 1.1) (until now)<br \>
+You can make game with editor, ruby script, even only C++.but best with all of them.<br \>
+
+Ruby Game Maker(下面简称RubyGM), 是一款简单的游戏引擎，用Ruby作为脚本语言<br \>
+目前为止，只能在Win7(更新后)及之后的操作系统上面运行，因为图形图像渲染接口是Direct2D(版本1.1)<br \>
+你能够使用编辑器、Ruby脚本甚至只用C++来制作游戏，但是最好是3者都用上<br \>
 
 ### Licence 许可证
-Ruby Game Maker(RubyGM) includes 3 parts of code, and the liecnce of each part is different:<br \>
-Ruby Game Maker(下面简称RubyGM)包括3大部分代码，并且每部分代码的liecnce均不同:<br \>
+RubyGM includes 3 parts of code, and the liecnce of each part is different:<br \>
+RubyGM 包括3大部分代码，并且每部分代码的liecnce均不同:<br \>
 <br  \>
 > part 哪部分 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;使用语言 Language   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Licence<br \>
 > RubyGM_Core  &nbsp; &nbsp; &nbsp; &nbsp;C++ &nbsp; &nbsp; &nbsp; &nbsp; 
