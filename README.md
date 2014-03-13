@@ -1,4 +1,4 @@
-RubyGM
+﻿RubyGM
 ======
 
 Ruby Game Maker, a easy game engine with ruby.
@@ -33,9 +33,13 @@ none yet. 目前还没有<br \>
 
 ### Compile 编译
 1. Download [VS Express 2013 for Windows Desktop](http://www.visualstudio.com/en-us/products/visual-studio-express-vs.aspx)(Not for Web/Windows), It's free and Ok for commercial use. &nbsp; &nbsp;:)
-2. Download the project.
+2. DownLoad the lastest Ruby(2.11) and compile it.
+2.5 DownLoad some library like Windows SDK, DirectX SDK and so on.
+3. Download and deploy(detailed see other) the project.
             
 -
 1. 下载[VS Express For Windows Desktop](http://www.visualstudio.com/zh-cn/products/visual-studio-express-vs.aspx)(注意不是for Windows更不是For web), 是免费的，<br \>并且允许商业使用. &nbsp; &nbsp; Σ( ° △ °|||)︴这么叼
-2. 下载本工程
+2. 下载并编译最新的Ruby(这里使用的是2.11)
+2.5 下载其他库，比如Windows SDK, DirectX SDK 之类的
+3. 下载并配置本工程，关于如何配置请查看其他文件。
 

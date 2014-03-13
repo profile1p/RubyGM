@@ -1,0 +1,11 @@
+﻿生成启动时间为 2014/3/10 17:40:14。
+     1>项目“F:\MineProject\RubyGM\RubyGM_Audio\RubyGM_Audio.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\RubyGM_Audio.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+     1>f:\mineproject\rubygm\rubygm_audio\stdafx.cpp(1): error C2857: 在源文件中没有找到用 /Ycstdafx.h 命令行选项指定的“#include”语句
+     1>已完成生成项目“F:\MineProject\RubyGM\RubyGM_Audio\RubyGM_Audio.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.26

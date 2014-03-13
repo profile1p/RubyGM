@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\杂项">
+      <UniqueIdentifier>{94359163-8933-4a6a-a2e8-7ef71086f2a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\游戏逻辑">
+      <UniqueIdentifier>{1eaa5278-7d3f-4f03-9d04-326c1d10aa49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\游戏逻辑">
+      <UniqueIdentifier>{0cb3ba88-8859-4229-bac7-d1dc57b9aea8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\杂项\调试">
+      <UniqueIdentifier>{13ad50bf-3c0b-47cb-a3bf-2f990aab1ad7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\接口">
+      <UniqueIdentifier>{62ad13ad-c59e-4bca-bdba-d453b0312ba9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\接口\输入接口">
+      <UniqueIdentifier>{35cb5cc5-6697-45bb-97bc-d391733edfb8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\接口\图像接口">
+      <UniqueIdentifier>{e926af20-72dd-4e25-9962-6047d1bd25c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\管理器">
+      <UniqueIdentifier>{24184c0f-456b-4cc7-96bd-33c8a3726bf2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\管理器\DShow管理">
+      <UniqueIdentifier>{01eac012-659c-4235-aa5c-06fb0627a682}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\管理器\DWrite管理">
+      <UniqueIdentifier>{01f24273-37fb-44e2-b653-f63a5147d5cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\管理器\窗口管理">
+      <UniqueIdentifier>{bcf726fc-6fd3-4b03-86c0-1c21379cc045}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\管理器\缓存管理">
+      <UniqueIdentifier>{aca58e4f-e52f-45fb-8a73-b2d667a8d3b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\管理器\容器管理">
+      <UniqueIdentifier>{96d183b7-131f-44a5-a4ef-6ec7c152ba98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\管理器\容器管理\内存池">
+      <UniqueIdentifier>{04f03cbb-a9a1-47e8-b9e8-0235bc3aa0fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\管理器\容器管理\内存池Ex">
+      <UniqueIdentifier>{f61f7d08-677e-4758-a843-0e16b06c5613}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\接口">
+      <UniqueIdentifier>{101c8e76-91e9-42dc-a7e2-ec622ba2cef7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\接口\输入接口">
+      <UniqueIdentifier>{a7861c6f-7c72-40a4-9240-30cdfb75a7d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\接口\图像接口">
+      <UniqueIdentifier>{f3a0831d-1eb5-431d-b650-79f6756cae06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\管理器">
+      <UniqueIdentifier>{ef50768c-9011-4009-8161-0e10e4899af1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\管理器\缓存管理">
+      <UniqueIdentifier>{5ac4b833-ef87-485c-bb08-1da8004e742d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\管理器\窗口">
+      <UniqueIdentifier>{587a93f0-c683-4e10-851d-633ed316e88f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\管理器\容器">
+      <UniqueIdentifier>{6ae98e93-8fcd-4804-92ac-97a05af85ac8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\管理器\容器\内存池">
+      <UniqueIdentifier>{d62d8819-9815-4569-98fe-218843727369}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\管理器\计时器">
+      <UniqueIdentifier>{3cc68096-2bcd-4791-91c6-17814f63c83b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="License.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ruby\config.h">
+      <Filter>头文件\杂项</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件\杂项</Filter>
+    </ClInclude>
+    <ClInclude Include="include.h">
+      <Filter>头文件\杂项</Filter>
+    </ClInclude>
+    <ClInclude Include="ThisApp.h">
+      <Filter>头文件\管理器\窗口管理</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageRender.h">
+      <Filter>头文件\管理器\窗口管理</Filter>
+    </ClInclude>
+    <ClInclude Include="res.h">
+      <Filter>头文件\杂项</Filter>
+    </ClInclude>
+    <ClInclude Include="D2DVideoRenderer.h">
+      <Filter>头文件\管理器\DShow管理</Filter>
+    </ClInclude>
+    <ClInclude Include="Bool32.h">
+      <Filter>头文件\管理器\容器管理</Filter>
+    </ClInclude>
+    <ClInclude Include="mpool\EzMemPool.h">
+      <Filter>头文件\管理器\容器管理\内存池</Filter>
+    </ClInclude>
+    <ClInclude Include="mpool\EzMemNode.h">
+      <Filter>头文件\管理器\容器管理\内存池</Filter>
+    </ClInclude>
+    <ClInclude Include="mpool\EzMemNodeEx.h">
+      <Filter>头文件\管理器\容器管理\内存池Ex</Filter>
+    </ClInclude>
+    <ClInclude Include="mpool\EzMemPoolEx.h">
+      <Filter>头文件\管理器\容器管理\内存池Ex</Filter>
+    </ClInclude>
+    <ClInclude Include="iDebug.h">
+      <Filter>头文件\杂项\调试</Filter>
+    </ClInclude>
+    <ClInclude Include="BitmapCache.h">
+      <Filter>头文件\管理器\缓存管理</Filter>
+    </ClInclude>
+    <ClInclude Include="AppInfo.h">
+      <Filter>头文件\杂项</Filter>
+    </ClInclude>
+    <ClInclude Include="Graphics.h">
+      <Filter>头文件\接口\图像接口</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>头文件\游戏逻辑</Filter>
+    </ClInclude>
+    <ClInclude Include="Bitmap.h">
+      <Filter>头文件\接口\图像接口</Filter>
+    </ClInclude>
+    <ClInclude Include="TextFormatCache.h">
+      <Filter>头文件\管理器\缓存管理</Filter>
+    </ClInclude>
+    <ClInclude Include="BrushCache.h">
+      <Filter>头文件\管理器\缓存管理</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>头文件\接口\图像接口</Filter>
+    </ClInclude>
+    <ClInclude Include="LocalFontFileEnumerator.h">
+      <Filter>头文件\管理器\DWrite管理</Filter>
+    </ClInclude>
+    <ClInclude Include="LocalFontCollectionLoader.h">
+      <Filter>头文件\管理器\DWrite管理</Filter>
+    </ClInclude>
+    <ClInclude Include="GameAllocator.h">
+      <Filter>头文件\管理器\容器管理\内存池</Filter>
+    </ClInclude>
+    <ClInclude Include="GeometryCahce.h">
+      <Filter>头文件\管理器\缓存管理</Filter>
+    </ClInclude>
+    <ClInclude Include="GamePadInput.h">
+      <Filter>头文件\接口\输入接口</Filter>
+    </ClInclude>
+    <ClInclude Include="GameKeyboardMouseInput.h">
+      <Filter>头文件\接口\输入接口</Filter>
+    </ClInclude>
+    <ClInclude Include="Container.h">
+      <Filter>头文件\管理器\容器管理</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer\CrudeTimer.h">
+      <Filter>头文件\管理器\计时器</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer\DependableTimer.h">
+      <Filter>头文件\管理器\计时器</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer\PrecisionTimer.h">
+      <Filter>头文件\管理器\计时器</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>头文件\管理器\计时器</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ThisApp.cpp">
+      <Filter>源文件\管理器\窗口</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageRender.cpp">
+      <Filter>源文件\管理器\窗口</Filter>
+    </ClCompile>
+    <ClCompile Include="EzMemPoolEx.cpp">
+      <Filter>源文件\管理器\容器\内存池</Filter>
+    </ClCompile>
+    <ClCompile Include="EzMemPool.cpp">
+      <Filter>源文件\管理器\容器\内存池</Filter>
+    </ClCompile>
+    <ClCompile Include="BitmapCache.cpp">
+      <Filter>源文件\管理器\缓存管理</Filter>
+    </ClCompile>
+    <ClCompile Include="Graphics.cpp">
+      <Filter>源文件\接口\图像接口</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>源文件\游戏逻辑</Filter>
+    </ClCompile>
+    <ClCompile Include="TextFormatCache.cpp">
+      <Filter>源文件\管理器\缓存管理</Filter>
+    </ClCompile>
+    <ClCompile Include="BrushCache.cpp">
+      <Filter>源文件\管理器\缓存管理</Filter>
+    </ClCompile>
+    <ClCompile Include="Bitmap.cpp">
+      <Filter>源文件\接口\图像接口</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>源文件\接口\图像接口</Filter>
+    </ClCompile>
+    <ClCompile Include="GeometryCahce.cpp">
+      <Filter>源文件\管理器\缓存管理</Filter>
+    </ClCompile>
+    <ClCompile Include="GameKeyboardMouseInput.cpp">
+      <Filter>源文件\接口\输入接口</Filter>
+    </ClCompile>
+    <ClCompile Include="Container.cpp">
+      <Filter>源文件\管理器\容器</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="just.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

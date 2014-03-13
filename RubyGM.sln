@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RubyGM_Core", "RubyGM_Core\RubyGM_Core.vcxproj", "{2578877A-86C4-47F1-8CEF-A3297DA93B67}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RubyGM_Editor", "RubyGM_Editor\RubyGM_Editor.vcxproj", "{23794A3B-8054-487C-BED0-65BDBC8260F5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RubyGM_Audio", "RubyGM_Audio\RubyGM_Audio.vcxproj", "{2311786F-6519-4E01-950A-D90E63F62F3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release_GameDebug|Win32 = Release_GameDebug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2578877A-86C4-47F1-8CEF-A3297DA93B67}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2578877A-86C4-47F1-8CEF-A3297DA93B67}.Debug|Win32.Build.0 = Debug|Win32
+		{2578877A-86C4-47F1-8CEF-A3297DA93B67}.Release_GameDebug|Win32.ActiveCfg = Release_GameDebug|Win32
+		{2578877A-86C4-47F1-8CEF-A3297DA93B67}.Release_GameDebug|Win32.Build.0 = Release_GameDebug|Win32
+		{2578877A-86C4-47F1-8CEF-A3297DA93B67}.Release|Win32.ActiveCfg = Release|Win32
+		{2578877A-86C4-47F1-8CEF-A3297DA93B67}.Release|Win32.Build.0 = Release|Win32
+		{23794A3B-8054-487C-BED0-65BDBC8260F5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{23794A3B-8054-487C-BED0-65BDBC8260F5}.Debug|Win32.Build.0 = Debug|Win32
+		{23794A3B-8054-487C-BED0-65BDBC8260F5}.Release_GameDebug|Win32.ActiveCfg = Release|Win32
+		{23794A3B-8054-487C-BED0-65BDBC8260F5}.Release_GameDebug|Win32.Build.0 = Release|Win32
+		{23794A3B-8054-487C-BED0-65BDBC8260F5}.Release|Win32.ActiveCfg = Release|Win32
+		{23794A3B-8054-487C-BED0-65BDBC8260F5}.Release|Win32.Build.0 = Release|Win32
+		{2311786F-6519-4E01-950A-D90E63F62F3D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2311786F-6519-4E01-950A-D90E63F62F3D}.Debug|Win32.Build.0 = Debug|Win32
+		{2311786F-6519-4E01-950A-D90E63F62F3D}.Release_GameDebug|Win32.ActiveCfg = Release|Win32
+		{2311786F-6519-4E01-950A-D90E63F62F3D}.Release_GameDebug|Win32.Build.0 = Release|Win32
+		{2311786F-6519-4E01-950A-D90E63F62F3D}.Release|Win32.ActiveCfg = Release|Win32
+		{2311786F-6519-4E01-950A-D90E63F62F3D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

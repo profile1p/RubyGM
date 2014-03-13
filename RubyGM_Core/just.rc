@@ -1,0 +1,4 @@
+#include "res.h"
+
+
+IDI_APP_ICON		ICON		"gtk_ruby.ico";
